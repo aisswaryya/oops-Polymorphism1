@@ -1,4 +1,4 @@
-# Exercise 1 oops-Polymorphism
+# Exercise 1 OOPS-Polymorphism
 
 Explosion: Demonstrate Run-Time Polymorphism
 
